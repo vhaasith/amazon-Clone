@@ -100,3 +100,15 @@ span{
     font-size:0.85rem;
     font-weight:700rem;
 }
+
+/**box5**/
+
+.nav-cart i{
+    font-size:35px;
+}
+
+.nav-cart{
+    font-size:0.75rem;
+    font-weight:700;
+}
+
