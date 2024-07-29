@@ -217,3 +217,22 @@ footer{
     align-items: center;
     font-size: 0.85rem;
 }
+
+.foot-panel2 {
+    background-color:#222f3d;
+    color:white;
+    height:600px;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+ul{
+    margin-top:30px;
+}
+
+ul a {
+    display: block;
+    font-size:0.85rem;
+    margin-top:10px;
+    color:#dddddd;
+}
