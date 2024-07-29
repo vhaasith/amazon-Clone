@@ -31,7 +31,6 @@
 
 .border:hover{
     border:1.5px solid white;
-
 }
 
 /* box2 */
@@ -110,5 +109,36 @@ span{
 .nav-cart{
     font-size:0.75rem;
     font-weight:700;
+}
+
+
+/**panel**/
+
+.panel{
+    height: 40px;
+    background-color:#222f32;
+    display:flex;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-ops p{
+    display:inline;
+    margin-left:12px;
+}
+
+.panel-ops p:hover{
+    border:1.5px solid white;
+}
+
+.panel-ops{
+    width:70%;
+    font-size:0.85rem;
+}
+
+.panel-deals{
+    font-size:0.9rem;
+    font-weight:700;    
 }
 
